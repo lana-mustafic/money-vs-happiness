@@ -13,6 +13,7 @@ This project demonstrates how data science can uncover insights about human well
 ---
 
 ## 📁 Repository Structure  
+```
 money-vs-happiness/
 ├── data/
 │ ├── raw_data/ # Original datasets
@@ -25,8 +26,7 @@ money-vs-happiness/
 │ └── 2_analysis.ipynb # Complete analysis
 ├── requirements.txt # Python dependencies
 └── README.md # This file
-
-text
+```
 
 ## 🔍 Key Findings  
 | Metric               | Value | Insight |
@@ -48,9 +48,12 @@ python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 pip install -r requirements.txt
-🚀 Usage
+```
+
+##🚀 Usage
 bash
 jupyter notebook
+bash
 Notebook Execution Order:
 
 1_data_cleaning.ipynb - Data preparation
@@ -63,12 +66,12 @@ Statistical modeling
 
 Interactive country explorer
 
-📊 Data Sources
+##📊 Data Sources
 World Happiness Report 2023
 
 World Bank GDP Data
 
-🤝 How to Contribute
+##🤝 How to Contribute
 Fork the repository
 
 Create a feature branch (git checkout -b feature/your-feature)
@@ -79,5 +82,5 @@ Push to branch (git push origin feature/your-feature)
 
 Open a Pull Request
 
-📝 License
+##📝 License
 MIT License - See LICENSE for details.
