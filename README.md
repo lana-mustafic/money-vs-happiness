@@ -1,4 +1,4 @@
-# Money vs Happiness Analysis 🌍💰😊  
+# Money vs Happiness Analysis 
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/)  
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)  
 
