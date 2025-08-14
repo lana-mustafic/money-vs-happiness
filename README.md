@@ -49,6 +49,7 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
+---
 
 ##🚀 Usage
 bash
@@ -66,10 +67,14 @@ Statistical modeling
 
 Interactive country explorer
 
+---
+
 ##📊 Data Sources
 World Happiness Report 2023
 
 World Bank GDP Data
+
+---
 
 ##🤝 How to Contribute
 Fork the repository
@@ -81,6 +86,8 @@ Commit changes (git commit -m 'Add some feature')
 Push to branch (git push origin feature/your-feature)
 
 Open a Pull Request
+
+---
 
 ##📝 License
 MIT License - See LICENSE for details.
